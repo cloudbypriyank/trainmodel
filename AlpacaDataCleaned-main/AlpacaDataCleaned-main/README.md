@@ -43,36 +43,61 @@ The original dataset had several issues that likely affect the final performance
 
 1. **Hallucinations:** Many instructions in the original dataset had instructions referencing data on the internet, which just caused GPT3 to hallucinate an answer.
 ```
-"instruction":"Summarize the given article in 200 Words.",
-"input": "https://www.bbc.com/news/world-51461830",
-"output": "The recent protests in Belarus are part of a growing wave of discontent against the rule of Alexander Lukashenko, who has led the country since 1994. Demonstrations against his government have been ongoing since August, and come in the wake of an election widely seen as rigged. As police and security forces have cracked down on protesters, the movement has only grown, with hundreds of thousands of people taking to the streets to call for new leadership. Human rights activists have accused the government of using extreme violence in order prosecute protesters, leading to an international outcry and sanctions from the European Union. As the situation in Belarus continues to unfold, the international community is monitoring the situation closely - hoping for a peaceful resolution, while also standing firm against the oppressive tactics employed by the Belarusian state."
-
-"instruction": "Classify the following shape according to simple geometry.",
-"input": "<Picture Attached>",
-"output": "Triangle"
-
-"instruction": "Given a recent news article, write a headline for it.",
-"input": "https://www.news.example.com/article-1",
-"output": "\"NASA Launches a Mars 2020 Mission to Search for Signs of Ancient Life\""
+{
+        "instruction": "Construct the response in JSON format with intents, entities, and response.",
+        "input": "Summarize the given article in 200 Words.",
+        "output": {
+            "intents": ["summarize"],
+            "entities": ["article", "200 Words"],
+            "response": "The recent protests in Belarus are part of a growing wave of discontent against the rule of Alexander Lukashenko, who has led the country since 1994. Demonstrations against his government have been ongoing since August, and come in the wake of an election widely seen as rigged. As police and security forces have cracked down on protesters, the movement has only grown, with hundreds of thousands of people taking to the streets to call for new leadership. Human rights activists have accused the government of using extreme violence in order prosecute protesters, leading to an international outcry and sanctions from the European Union. As the situation in Belarus continues to unfold, the international community is monitoring the situation closely - hoping for a peaceful resolution, while also standing firm against the oppressive tactics employed by the Belarusian state."
+        }
+    },
+    {
+        "instruction": "Construct the response in JSON format with intents, entities, and response.",
+        "input": "Classify the following shape according to simple geometry.",
+        "output": {
+            "intents": ["classify"],
+            "entities": ["shape", "simple geometry"],
+            "response": "Triangle"
+        }
+    },
 ```
 2. **Merged Instructions:** There were many instructions that were merged together in the original dataset for some reason.
 ```
-"instruction": "Should I invest in stocks?",
-"input": "",
-"output": "It depends on your individual situation. Investing in stocks carries a certain amount of risk but can also offer potential rewards. Make sure to research the different types of stocks, understand the risks and rewards, and develop a plan that works for you.\n##\n18. Instruction: Identify the noun in the following sentence:\n18. Input:\nThe large apple was delicious.\n18. Output:\nApple"
+ {
+        "instruction": "Construct the response in JSON format with intents, entities, and response.",
+        "input": "Given a recent news article, write a headline for it.",
+        "output": {
+            "intents": ["headline"],
+            "entities": ["recent news article"],
+            "response": "\"NASA Launches a Mars 2020 Mission to Search for Signs of Ancient Life\""
+        }
+    },
 ```
 3. **Empty outputs:** Some entries in the original dataset had empty outputs.
 ```
-"instruction": "Calculate the area of the following shape in square centimeters.",
-"input": "rectangle of size 4 cm x 5 cm",
-"output": ""
+{
+        "instruction": "Construct the response in JSON format with intents, entities, and response.",
+        "input": "Should I invest in stocks?",
+        "output": {
+            "intents": ["investment"],
+            "entities": ["stocks"],
+            "response": ""
+        }
+    },
 ```
 4. **Empty code examples:** Some descriptions in the original dataset were missing code examples, making it difficult to understand the intended behavior of the code.
 5. **Instructions to generate images:** Some descriptions in the original dataset included instructions to generate images, something obviously not possible.
 ```
-"instruction": "Create a graphic or logo that visually represents the word \"courage\".",
-"input": "",
-"output": "<No Output>"
+{
+        "instruction": "Construct the response in JSON format with intents, entities, and response.",
+        "input": "construct one images that contains apple iphone with google pixel.",
+        "output": {
+            "intents": ["noun_identification"],
+            "entities": ["sentence"],
+            "response": "Apple"
+        }
+    },
 ```
 6. **N/A outputs:** Some code snippets in the original dataset had N/A outputs.
 7. **Inconsistent input field:** The original dataset had inconsistent usage of the input field when it was supposed to be empty.
