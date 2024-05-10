@@ -1,368 +1,62 @@
 [
- {
     {
         "instruction": "Construct the response in JSON format and Give the response for user query from data",
         "input": "Software Quality Assurance ETL Test Engineer",
-        "jobdetails": "Role:- Software Quality Assurance ETL Test Engineer
-Experience: 6 - 8
-Rate: DOE
-Visa: H1B, OPT, CPT.
-
-PP Number is Mandatory.
-
-
-JD
-
-
-Minimum 6+ years of hands-on Big data testing experience
-
-Expert in Hadoop (Hive/Impala)/Spark SQL Development and Testing knowledge
-
-Must have experience with Databrick and HDFC Spark Queries
-
-Must have experience testing UI Web Application Testing knowledge
-
-Strong in PL/SQL Development knowledge
-
-Domini knowledge of the Financial and Healthcare Domain
-
-Test Automation experience using J unit and Python and Java language is a Key skill
-
---
--
-Thanks
-Naga Sharan
-
-Email: naga@bvispro.com
-Business Value Intelligence Services
-Website:- http://www.bvispro.com/ 
-
-Linkedin:
-
- https://www.linkedin.com/in/naga-sharan-gaddam-61bb33255/
-
-Address:- 234 Littleton Road, Unit 1B,Westford-MA-01886 USA",
+        "jobdetails": "Role:- Software Quality Assurance ETL Test Engineer\nExperience: 6 - 8\nRate: DOE\nVisa: H1B, OPT, CPT.\n\nPP Number is Mandatory.\n\nJD\n\nMinimum 6+ years of hands-on Big data testing experience\n\nExpert in Hadoop (Hive/Impala)/Spark SQL Development and Testing knowledge\n\nMust have experience with Databrick and HDFC Spark Queries\n\nMust have experience testing UI Web Application Testing knowledge\n\nStrong in PL/SQL Development knowledge\n\nDomini knowledge of the Financial and Healthcare Domain\n\nTest Automation experience using J unit and Python and Java language is a Key skill\n\n--\n-\nThanks\nNaga Sharan\n\nEmail: naga@bvispro.com\nBusiness Value Intelligence Services\nWebsite:- http://www.bvispro.com/\n\nLinkedin:\n\nhttps://www.linkedin.com/in/naga-sharan-gaddam-61bb33255/\n\nAddress:- 234 Littleton Road, Unit 1B,Westford-MA-01886 USA",
         "Email Classifier": "Job Requirement",
         "Email Sub-Classifier": "All Open",
         "output": {
-            "Hello,
-
-Below are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.
-
-Consultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set
-Venkat Rao        mvrao19@gmail.com        (315) 416-8429        H-1B        Remote        Project Manager
-"
+            "response": "Hello,\n\nBelow are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.\n\nConsultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set\nVenkat Rao        mvrao19@gmail.com        (315) 416-8429        H-1B        Remote        Project Manager"
         }
     },
     {
         "instruction": "Construct the response in JSON format and Give the response for user query from data.",
         "input": "Business Analyst with IT Asset Management",
-        "jobdetails": "Position : Business Analyst with IT Asset Management
-
-Client :  “State of CA”
-
- 
-
-Phone/Skype Hire.  Onsite from day 1  / Hybrid
-
- 
-
-Location: Los Angeles, CA
-
-Duration: 12+ months
-Visa : USC, GC or EAD
-Responsibilities
-
-Evaluate commercial IT software product(s) and recommend solutions for IT assets.
-Evaluate historical IT Asset Management (ITAM) data to determine best archive solution.
-Conduct meetings and workshops to gather requirements for ITAM implementation.
-Document workflow design, configurations and customizations.
-Work with developers on migration plan to ensure mini disruption to operations to align with ITIL best practices.
-Assist with data analysis and data cleansing.
-Develop test cases, execute test plans, log defects for UAT.
-Prepare training materials and job aids.
-Coordinate and conduct UAT and training sessions.
-Track and report UAT and training progress to project manager
- 
-
-Skills Needed
-
-Experience in accessing software and organizational requirements to propose recommendations.
-Experience in requirement gathering and converting general business terminology into specification document.
-Ability to facilitate meetings, workshops, and interviews with stakeholders in the project.
-Good understanding of IT Asset management and ITIL processes for best practices
-Experience with IT asset management workflow design and ability to prepare process flow diagrams, job aids and documentation.
-Experience in software quality assurance, including testing methodologies, test case creation, and defect tracking.
-Good understanding of relational database and data driven software design.
-Experience in data analysis and report creation.
-Knowledge of BMC Remedy, IBM Maximo and IT Asset Management is preferable.
- 
-
-Thanks
-
-Rajat
-
- 
-
-Rajat Sharma
-Software People Inc.
-rajat.sharma@softwarepeople.us
-rajat.sharma@softwarepeopleinc.com
-rajatspinc@gmail.com
-Ph: 720-248-3193 © Fax: 631-574-3122
-
-Twitter: Software People @spincjobs
-
-Certifications: NY MWBE, VA SWaM, DE OMWBE, MA MWBE",
- "Email Classifier": "Job Requirement",
- "Email Sub-Classifier": "No Visa Allowed",
- "output": {
-            "Hello,
-
-Below are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.
-
-Consultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set
-Srijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science"
+        "jobdetails": "Position : Business Analyst with IT Asset Management\n\nClient :  “State of CA”\n\nPhone/Skype Hire.  Onsite from day 1  / Hybrid\n\nLocation: Los Angeles, CA\n\nDuration: 12+ months\nVisa : USC, GC or EAD\nResponsibilities\n\nEvaluate commercial IT software product(s) and recommend solutions for IT assets.\nEvaluate historical IT Asset Management (ITAM) data to determine best archive solution.\nConduct meetings and workshops to gather requirements for ITAM implementation.\nDocument workflow design, configurations and customizations.\nWork with developers on migration plan to ensure mini disruption to operations to align with ITIL best practices.\nAssist with data analysis and data cleansing.\nDevelop test cases, execute test plans, log defects for UAT.\nPrepare training materials and job aids.\nCoordinate and conduct UAT and training sessions.\nTrack and report UAT and training progress to project manager\n\nSkills Needed\n\nExperience in accessing software and organizational requirements to propose recommendations.\nExperience in requirement gathering and converting general business terminology into specification document.\nAbility to facilitate meetings, workshops, and interviews with stakeholders in the project.\nGood understanding of IT Asset management and ITIL processes for best practices\nExperience with IT asset management workflow design and ability to prepare process flow diagrams, job aids and documentation.\nExperience in software quality assurance, including testing methodologies, test case creation, and defect tracking.\nGood understanding of relational database and data driven software design.\nExperience in data analysis and report creation.\nKnowledge of BMC Remedy, IBM Maximo and IT Asset Management is preferable.\n\nThanks\n\nRajat\n\nRajat Sharma\nSoftware People Inc.\nrajat.sharma@softwarepeople.us\nrajat.sharma@softwarepeopleinc.com\nrajatspinc@gmail.com\nPh: 720-248-3193 © Fax: 631-574-3122\n\nTwitter: Software People @spincjobs\n\nCertifications: NY MWBE, VA SWaM, DE OMWBE, MA MWBE",
+        "Email Classifier": "Job Requirement",
+        "Email Sub-Classifier": "No Visa Allowed",
+        "output": {
+            "response": "Hello,\n\nBelow are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.\n\nConsultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set\nSrijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science"
         }
     },
     {
         "instruction": "Construct the response in JSON format and Give the response for user query from data.",
         "input": "Scrum Master",
-        "jobdetails": "Position: Scrum Master
-
-Location: Chicago, IL(onsite-Need locals)
-
-Duration: 12+ Months Contract
-Visa : OPT EAD, H4EAD or H1B
- 
-
-JD
-
-Certified Scrum Master (CSM) or equivalent certification.
-Minimum of [10] years of experience working as a Scrum Master in agile software development environments.
-Strong understanding of cybersecurity principles, technologies, and best practices.
-Experience leading agile teams in the development and implementation of cybersecurity solutions.
-Excellent communication, facilitation, and interpersonal skills.
-Ability to thrive in a fast-paced, dynamic environment and effectively manage multiple priorities.
-Solid understanding of software development lifecycle (SDLC) and agile methodologies (Scrum, Kanban, etc.).
-Familiarity with cybersecurity frameworks such as NIST, ISO 27001, or CIS Controls.
-Experience with cybersecurity tools and technologies, including but not limited to SIEM, IDS/IPS, endpoint protection, and encryption.
- 
-
-Education: At least a bachelor’s degree (or equivalent experience) in Computer Science, Software/Electronics Engineering, Information Systems, or closely related field is required.
-
- 
-
-Thanks & Regards
-
-Koushik Kondapally,
-
-ITech US, Inc,
-
-Koushik.k@itechus.net",
-         "Email Classifier": "Job Requirement",
+        "jobdetails": "Position: Scrum Master\n\nLocation: Chicago, IL(onsite-Need locals)\n\nDuration: 12+ Months Contract\nVisa : OPT EAD, H4EAD or H1B\n\nJD\n\nCertified Scrum Master (CSM) or equivalent certification.\nMinimum of [10] years of experience working as a Scrum Master in agile software development environments.\nStrong understanding of cybersecurity principles, technologies, and best practices.\nExperience leading agile teams in the development and implementation of cybersecurity solutions.\nExcellent communication, facilitation, and interpersonal skills.\nAbility to thrive in a fast-paced, dynamic environment and effectively manage multiple priorities.\nSolid understanding of software development lifecycle (SDLC) and agile methodologies (Scrum, Kanban, etc.).\nFamiliarity with cybersecurity frameworks such as NIST, ISO 27001, or CIS Controls.\nExperience with cybersecurity tools and technologies, including but not limited to SIEM, IDS/IPS, endpoint protection, and encryption.\n\nEducation: At least a bachelor’s degree (or equivalent experience) in Computer Science, Software/Electronics Engineering, Information Systems, or closely related field is required.\n\nThanks & Regards\n\nKoushik Kondapally,\n\nITech US, Inc,\n\nKoushik.k@itechus.net",
+        "Email Classifier": "Job Requirement",
         "Email Sub-Classifier": "All Open",
-        "output": {Hello,
-
-Below are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.
-
-Consultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set
-Srijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science}
-      }
+        "output": {
+            "response": "Hello,\n\nBelow are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.\n\nConsultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set\nSrijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science"
+        }
     },
     {
         "instruction": "Construct the response in JSON format and Give the response for user query from data.",
         "input": "SDET Testers with Development Exp.",
-        "jobdetails": "Position: SDET Testers with Development Exp.
-
-Location: Rockville, MD (Remote)
-
-Duration: Long Term Contract
-Visa : USC, GC or EAD
- 
-
-For these roles, we need folks that worked as Java Developers in the past and then turned into SDETs. Selenium and Gatling experience is needed. 
-
-Need H1Bs and H4EADs on C2C, GCs and USCs on W2
-
- 
-
-Summary:
-
-The main function of a Software Development Engineer in Test (SDET) is to develop and execute software test plans in order to identify software problems and their causes.
-
-Job Responsibilities:
-
-Execute test plans, scenarios, scripts or procedures
-
-Test system modifications to prepare for implementation
-
-Develop testing programs that address areas such as database impacts, software scenarios, or usability
-
-Document software defects, using a bug tracking system, and report defects to software developers
-
-Identify, analyze and document problems with program function, output, online screen or content
-
-Monitor bug resolution efforts and track successes
-
-Create or maintain databases of known test defects
-
-Plan test schedules or strategies in accordance with project scope or delivery dates
-
- 
-
-Qualifications:
-
-Bachelor's degree in a technical field such as computer science, computer engineering or related field required
-
-5-7 years experience required
-
-Development and programming experience
-
-Experience with automated testing tools and technologies
-
- 
-
-Required Skills
-Computer science fundamentals – algorithm design, problem solving, complexity analysis and data structures.
-
-•        Testing process, test types, test design and testing methodologies
-
-•        Languages: Java, typescript
-
-•        UI automation using Playwright, Selenium
-
-•        Experience in designing and developing automation frameworks and test suites
-
-•        SQL
-
-•        API testing
-
-•        Certified AWS developer or commitment to acquire certification
-
-•        Perf testing with Gatling
-
-•        Collaborate with other teams for integration/end-to-end testing
-
-•        Collaborate and mentor other Juniors as needed
-
- 
-
- 
-
- 
-
-Thanks & Regards...
-
- 
-
-Satish Chikkala
-
-Talent Acquisition Specialist
-
-KMM Technologies, Inc.
-
-CMMI Level 2 | ISO 9001 | ISO 20000 | ISO 27000 Certified
-
-WOSB, SBA 8(A), MDOT MBE & NMSDC MBE
-
-Contract Vehicles: 8(a) STARS III & Schedule 70
-
-Fax: (866) 856-3684
-
-E-Mail: Satish.chikkala@kmmtechnologies.com
-
-www.kmmtechnologies.com",
-         "Email Classifier": "Job Requirement",
+        "jobdetails": "Position: SDET Testers with Development Exp.\n\nLocation: Rockville, MD (Remote)\n\nDuration: Long Term Contract\nVisa : USC, GC or EAD\n\nFor these roles, we need folks that worked as Java Developers in the past and then turned into SDETs. Selenium and Gatling experience is needed. \n\nNeed H1Bs and H4EADs on C2C, GCs and USCs on W2\n\nSummary:\n\nThe main function of a Software Development Engineer in Test (SDET) is to develop and execute software test plans in order to identify software problems and their causes.\n\nJob Responsibilities:\n\nExecute test plans, scenarios, scripts or procedures\nTest system modifications to prepare for implementation\nDevelop testing programs that address areas such as database impacts, software scenarios, or usability\nDocument software defects, using a bug tracking system, and report defects to software developers\nIdentify, analyze and document problems with program function, output, online screen or content\nMonitor bug resolution efforts and track successes\nCreate or maintain databases of known test defects\nPlan test schedules or strategies in accordance with project scope or delivery dates\n\nQualifications:\n\nBachelor's degree in a technical field such as computer science, computer engineering or related field required\n5-7 years experience required\nDevelopment and programming experience\nExperience with automated testing tools and technologies\n\nRequired Skills\nComputer science fundamentals – algorithm design, problem solving, complexity analysis and data structures.\n\n•        Testing process, test types, test design and testing methodologies\n\n•        Languages: Java, typescript\n\n•        UI automation using Playwright, Selenium\n\n•        Experience in designing and developing automation frameworks and test suites\n\n•        SQL\n\n•        API testing\n\n•        Certified AWS developer or commitment to acquire certification\n\n•        Perf testing with Gatling\n\n•        Collaborate with other teams for integration/end-to-end testing\n\n•        Collaborate and mentor other Juniors as needed\n\nThanks & Regards...\n\nSatish Chikkala\n\nTalent Acquisition Specialist\n\nKMM Technologies, Inc.\n\nCMMI Level 2 | ISO 9001 | ISO 20000 | ISO 27000 Certified\n\nWOSB, SBA 8(A), MDOT MBE & NMSDC MBE\n\nContract Vehicles: 8(a) STARS III & Schedule 70\n\nFax: (866) 856-3684\n\nE-Mail: Satish.chikkala@kmmtechnologies.com\n\nwww.kmmtechnologies.com",
+        "Email Classifier": "Job Requirement",
         "Email Sub-Classifier": "No Visa Allowed",
-        "output": {Hello,
-
-Below are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.
-
-Consultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set
-Srijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science}
-    }
+        "output": {
+            "response": "Hello,\n\nBelow are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.\n\nConsultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set\nSrijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science"
+        }
     },
     {
         "instruction": "Construct the response in JSON format and Give the response for user query from data.",
         "input": "Site Reliability Engineer (SRE)",
-        "jobdetails": "Title: Site Reliability Engineer (SRE) 
-Location : Chicago or AZ/Tempe (Day 1 onsite hybrid)
-Contract
-   
-PRINCIPAL RESPONSIBILITIES:
-Lead production stability effort by preventing production issue and improve production stability.
-Defining and enforcing Service Level Objectives (SLOs) and Agreements (SLAs), Error Budgets to guarantee system reliability and availability.
-Attention to key performance indicators, such as response times, error rates, and uptime to align operational performance with overarching business objectives.
-Proactively identify continuous improvement opportunities such as reducing manual effort, automation of tasks/resolutions or decreasing production incidents.
-Involving in defining and deploying monitoring, metrics, and logging systems and developing application dashboards.
-Ensure near-zero downtime with monitoring and alerting, self-healing automation, and continuous improvement.
-Provide reactive, break-fix support and Communicate issue/resolution status (written and verbal) to project team and management.
-Develop to become a Subject Matter Expert for assigned application domain.
-Should be able to interpret the alerts like SiteScope, Dynatrace and ELK etc. & refer to it while doing the RCA of the issue.
-He Should be flexible for upskilling to new tech stack & should be ready to do hands on development.
-Provide regular and high-quality updates to all the stakeholders on the progress of the work including user stories and ITSM problems.
- 
-SKILLS / EXPERIENCE:
-5-6 plus years of application development experience using modern technologies and architecture, including experience collaborating with technology teams.
-2 plus years of Site Reliability Engineering experience.
-Good Understanding of at least one public cloud, preferably Microsoft Azure/ Pivotal Cloud Foundry.
-Strong understanding of REST APIs and how to use them in practice.
-Strong Experience with continuous integration and collaboration tools like Azure DevOps, JIRA, Bitbucket, GitHub and Confluence.
-Good knowledge and Hands on CLI – Bash, Linux, Azure CLI etc.,
-Experience in some of the following technologies: Java, J2EE, Pivotal Cloud Foundry, Cloud Computing (IaaS, PaaS, and SaaS), RESTful interfaces, GIT, Gradle, Maven, NPM, Spring (Spring Batch and Spring Boot), CSS3, HTML4, React.js, Node.js/JavaScript, Oracle PL/SQL, and Kafka. NTAC:3NS-20
-Strong communication and interpersonal skills, along with a solid technical background are essential as is the ability to multitask in a fast-paced environment. The ideal candidate can explain technical issues in layman’s terms and translate business needs to technology teams and back.
-Experience working effectively with diverse groups around the world, including IT management, technology staff, business partners, consultants, vendors, and clients
-
-
-Thanks & Best Regards,
-Vishal Swami – Clifyx (US IT Recruiter)
-Contact Number- 908-279-1295
-LinkedIn: linkedin.com/in/vishal-swami-790a72179
-Headquarters: South Plainfield, NJ – 07080",
-         "Email Classifier": "Job Requirement",
+        "jobdetails": "Title: Site Reliability Engineer (SRE) \nLocation : Chicago or AZ/Tempe (Day 1 onsite hybrid)\nContract\n\nPRINCIPAL RESPONSIBILITIES:\nLead production stability effort by preventing production issue and improve production stability.\nDefining and enforcing Service Level Objectives (SLOs) and Agreements (SLAs), Error Budgets to guarantee system reliability and availability.\nAttention to key performance indicators, such as response times, error rates, and uptime to align operational performance with overarching business objectives.\nProactively identify continuous improvement opportunities such as reducing manual effort, automation of tasks/resolutions or decreasing production incidents.\nInvolving in defining and deploying monitoring, metrics, and logging systems and developing application dashboards.\nEnsure near-zero downtime with monitoring and alerting, self-healing automation, and continuous improvement.\nProvide reactive, break-fix support and Communicate issue/resolution status (written and verbal) to project team and management.\nDevelop to become a Subject Matter Expert for assigned application domain.\nShould be able to interpret the alerts like SiteScope, Dynatrace and ELK etc. & refer to it while doing the RCA of the issue.\nHe Should be flexible for upskilling to new tech stack & should be ready to do hands on development.\nProvide regular and high-quality updates to all the stakeholders on the progress of the work including user stories and ITSM problems.\n\nSKILLS / EXPERIENCE:\n5-6 plus years of application development experience using modern technologies and architecture, including experience collaborating with technology teams.\n2 plus years of Site Reliability Engineering experience.\nGood Understanding of at least one public cloud, preferably Microsoft Azure/ Pivotal Cloud Foundry.\nStrong understanding of REST APIs and how to use them in practice.\nStrong Experience with continuous integration and collaboration tools like Azure DevOps, JIRA, Bitbucket, GitHub and Confluence.\nGood knowledge and Hands on CLI – Bash, Linux, Azure CLI etc.,\nExperience in some of the following technologies: Java, J2EE, Pivotal Cloud Foundry, Cloud Computing (IaaS, PaaS, and SaaS), RESTful interfaces, GIT, Gradle, Maven, NPM, Spring (Spring Batch and Spring Boot), CSS3, HTML4, React.js, Node.js/JavaScript, Oracle PL/SQL, and Kafka. NTAC:3NS-20\nStrong communication and interpersonal skills, along with a solid technical background are essential as is the ability to multitask in a fast-paced environment. The ideal candidate can explain technical issues in layman’s terms and translate business needs to technology teams and back.\nExperience working effectively with diverse groups around the world, including IT management, technology staff, business partners, consultants, vendors, and clients\n\nThanks & Best Regards,\nVishal Swami – Clifyx (US IT Recruiter)\nContact Number- 908-279-1295\nLinkedIn: linkedin.com/in/vishal-swami-790a72179\nHeadquarters: South Plainfield, NJ – 07080",
+        "Email Classifier": "Job Requirement",
         "Email Sub-Classifier": "All Open",
-        "output": {Hello,
-
-Below are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.
-
-Consultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set
-Srijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science}
-      }
+        "output": {
+            "response": "Hello,\n\nBelow are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.\n\nConsultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set\nSrijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science"
+        }
     },
     {
         "instruction": "Construct the response in JSON format and Give the response for user query from data.",
         "input": "Data Engineer",
-        "jobdetails": "Data Engineer   
-
-Washington DC   onsite
-Visa : USC, GC or EAD
-
-
- 
-
-Python
-
-Spark
-
-Aws - emr or glue, s3, rds, lambda
-
-Sql
-
-Airflow
-
-Snowflake or data warehousing
-
-Datalake or delta lake
-
-",
-         "Email Classifier": "Job Requirement",
+        "jobdetails": "Data Engineer   \n\nWashington DC   onsite\nVisa : USC, GC or EAD\n\n\n\nPython\n\nSpark\n\nAws - emr or glue, s3, rds, lambda\n\nSql\n\nAirflow\n\nSnowflake or data warehousing\n\nDatalake or delta lake",
+        "Email Classifier": "Job Requirement",
         "Email Sub-Classifier": "No Visa Allowed",
-        "output": {Hello,
-
-Below are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.
-
-Consultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set
-Srijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science}
-      }
+        "output": {
+            "response": "Hello,\n\nBelow are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.\n\nConsultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set\nSrijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science"
+        }
+    }
 ]
