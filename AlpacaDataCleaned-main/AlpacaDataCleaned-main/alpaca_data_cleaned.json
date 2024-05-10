@@ -1,60 +1,373 @@
 [
+ {
     {
-        "instruction": "Construct the response in JSON format with intents, entities, and response.",
-        "input": "What is the role of Victor Olatunji and what is his email address?",
+        "instruction": "Construct the response in JSON format and Give the response for user query from data",
+        "input": "Software Quality Assurance ETL Test Engineer",
+        "jobdetails": "Role:- Software Quality Assurance ETL Test Engineer
+Experience: 6 - 8
+Rate: DOE
+Visa: H1B, OPT, CPT.
+
+PP Number is Mandatory.
+
+
+JD
+
+
+Minimum 6+ years of hands-on Big data testing experience
+
+Expert in Hadoop (Hive/Impala)/Spark SQL Development and Testing knowledge
+
+Must have experience with Databrick and HDFC Spark Queries
+
+Must have experience testing UI Web Application Testing knowledge
+
+Strong in PL/SQL Development knowledge
+
+Domini knowledge of the Financial and Healthcare Domain
+
+Test Automation experience using J unit and Python and Java language is a Key skill
+
+--
+-
+Thanks
+Naga Sharan
+
+Email: naga@bvispro.com
+Business Value Intelligence Services
+Website:- http://www.bvispro.com/ 
+
+Linkedin:
+
+ https://www.linkedin.com/in/naga-sharan-gaddam-61bb33255/
+
+Address:- 234 Littleton Road, Unit 1B,Westford-MA-01886 USA",
+        "Email Classifier": "Job Requirement",
+        "Email Sub-Classifier": "All Open",
         "output": {
-            "intents": ["role", "email_address"],
-            "entities": ["Victor Olatunji"],
-            "response": "Victor Olatunji is a Cashier. His email address is Victor.Olatunji@mail.com."
+            "Hello,
+
+Below are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.
+
+Consultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set
+Venkat Rao        mvrao19@gmail.com        (315) 416-8429        H-1B        Remote        Project Manager
+"
         }
     },
     {
-        "instruction": "Construct the response in JSON format with intents, entities, and response.",
-        "input": "When is Glenn Burnett's birthday and what is his role?",
-        "output": {
-            "intents": ["birthday", "role"],
-            "entities": ["Glenn Burnett"],
-            "response": "Glenn Burnett's birthday is on Feb-2. He is a Cashier."
+        "instruction": "Construct the response in JSON format and Give the response for user query from data.",
+        "input": "Business Analyst with IT Asset Management",
+        "jobdetails": "Position : Business Analyst with IT Asset Management
+
+Client :  “State of CA”
+
+ 
+
+Phone/Skype Hire.  Onsite from day 1  / Hybrid
+
+ 
+
+Location: Los Angeles, CA
+
+Duration: 12+ months
+Visa : USC, GC or EAD
+Responsibilities
+
+Evaluate commercial IT software product(s) and recommend solutions for IT assets.
+Evaluate historical IT Asset Management (ITAM) data to determine best archive solution.
+Conduct meetings and workshops to gather requirements for ITAM implementation.
+Document workflow design, configurations and customizations.
+Work with developers on migration plan to ensure mini disruption to operations to align with ITIL best practices.
+Assist with data analysis and data cleansing.
+Develop test cases, execute test plans, log defects for UAT.
+Prepare training materials and job aids.
+Coordinate and conduct UAT and training sessions.
+Track and report UAT and training progress to project manager
+ 
+
+Skills Needed
+
+Experience in accessing software and organizational requirements to propose recommendations.
+Experience in requirement gathering and converting general business terminology into specification document.
+Ability to facilitate meetings, workshops, and interviews with stakeholders in the project.
+Good understanding of IT Asset management and ITIL processes for best practices
+Experience with IT asset management workflow design and ability to prepare process flow diagrams, job aids and documentation.
+Experience in software quality assurance, including testing methodologies, test case creation, and defect tracking.
+Good understanding of relational database and data driven software design.
+Experience in data analysis and report creation.
+Knowledge of BMC Remedy, IBM Maximo and IT Asset Management is preferable.
+ 
+
+Thanks
+
+Rajat
+
+ 
+
+Rajat Sharma
+Software People Inc.
+rajat.sharma@softwarepeople.us
+rajat.sharma@softwarepeopleinc.com
+rajatspinc@gmail.com
+Ph: 720-248-3193 © Fax: 631-574-3122
+
+Twitter: Software People @spincjobs
+
+Certifications: NY MWBE, VA SWaM, DE OMWBE, MA MWBE",
+ "Email Classifier": "Job Requirement",
+ "Email Sub-Classifier": "No Visa Allowed",
+ "output": {
+            "Hello,
+
+Below are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.
+
+Consultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set
+Srijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science"
         }
     },
     {
-        "instruction": "Construct the response in JSON format with intents, entities, and response.",
-        "input": "Is Gabriel Kim's email address valid and what is his role?",
-        "output": {
-            "intents": ["email_validity", "role"],
-            "entities": ["Gabriel Kim"],
-            "response": "Gabriel Kim's email address is not valid. He is a Dishwasher."
-        }
+        "instruction": "Construct the response in JSON format and Give the response for user query from data.",
+        "input": "Scrum Master",
+        "jobdetails": "Position: Scrum Master
+
+Location: Chicago, IL(onsite-Need locals)
+
+Duration: 12+ Months Contract
+Visa : OPT EAD, H4EAD or H1B
+ 
+
+JD
+
+Certified Scrum Master (CSM) or equivalent certification.
+Minimum of [10] years of experience working as a Scrum Master in agile software development environments.
+Strong understanding of cybersecurity principles, technologies, and best practices.
+Experience leading agile teams in the development and implementation of cybersecurity solutions.
+Excellent communication, facilitation, and interpersonal skills.
+Ability to thrive in a fast-paced, dynamic environment and effectively manage multiple priorities.
+Solid understanding of software development lifecycle (SDLC) and agile methodologies (Scrum, Kanban, etc.).
+Familiarity with cybersecurity frameworks such as NIST, ISO 27001, or CIS Controls.
+Experience with cybersecurity tools and technologies, including but not limited to SIEM, IDS/IPS, endpoint protection, and encryption.
+ 
+
+Education: At least a bachelor’s degree (or equivalent experience) in Computer Science, Software/Electronics Engineering, Information Systems, or closely related field is required.
+
+ 
+
+Thanks & Regards
+
+Koushik Kondapally,
+
+ITech US, Inc,
+
+Koushik.k@itechus.net",
+         "Email Classifier": "Job Requirement",
+        "Email Sub-Classifier": "All Open",
+        "output": {Hello,
+
+Below are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.
+
+Consultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set
+Srijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science}
+      }
     },
     {
-        "instruction": "Construct the response in JSON format with intents, entities, and response.",
-        "input": "What is Samantha Harding's role and when is her birthday?",
-        "output": {
-            "intents": ["role", "birthday"],
-            "entities": ["Samantha Harding"],
-            "response": "Samantha Harding is a Baker / Pastry Chef. Her birthday is on Apr-22."
-        }
+        "instruction": "Construct the response in JSON format and Give the response for user query from data.",
+        "input": "SDET Testers with Development Exp.",
+        "jobdetails": "Position: SDET Testers with Development Exp.
+
+Location: Rockville, MD (Remote)
+
+Duration: Long Term Contract
+Visa : USC, GC or EAD
+ 
+
+For these roles, we need folks that worked as Java Developers in the past and then turned into SDETs. Selenium and Gatling experience is needed. 
+
+Need H1Bs and H4EADs on C2C, GCs and USCs on W2
+
+ 
+
+Summary:
+
+The main function of a Software Development Engineer in Test (SDET) is to develop and execute software test plans in order to identify software problems and their causes.
+
+Job Responsibilities:
+
+Execute test plans, scenarios, scripts or procedures
+
+Test system modifications to prepare for implementation
+
+Develop testing programs that address areas such as database impacts, software scenarios, or usability
+
+Document software defects, using a bug tracking system, and report defects to software developers
+
+Identify, analyze and document problems with program function, output, online screen or content
+
+Monitor bug resolution efforts and track successes
+
+Create or maintain databases of known test defects
+
+Plan test schedules or strategies in accordance with project scope or delivery dates
+
+ 
+
+Qualifications:
+
+Bachelor's degree in a technical field such as computer science, computer engineering or related field required
+
+5-7 years experience required
+
+Development and programming experience
+
+Experience with automated testing tools and technologies
+
+ 
+
+Required Skills
+Computer science fundamentals – algorithm design, problem solving, complexity analysis and data structures.
+
+•        Testing process, test types, test design and testing methodologies
+
+•        Languages: Java, typescript
+
+•        UI automation using Playwright, Selenium
+
+•        Experience in designing and developing automation frameworks and test suites
+
+•        SQL
+
+•        API testing
+
+•        Certified AWS developer or commitment to acquire certification
+
+•        Perf testing with Gatling
+
+•        Collaborate with other teams for integration/end-to-end testing
+
+•        Collaborate and mentor other Juniors as needed
+
+ 
+
+ 
+
+ 
+
+Thanks & Regards...
+
+ 
+
+Satish Chikkala
+
+Talent Acquisition Specialist
+
+KMM Technologies, Inc.
+
+CMMI Level 2 | ISO 9001 | ISO 20000 | ISO 27000 Certified
+
+WOSB, SBA 8(A), MDOT MBE & NMSDC MBE
+
+Contract Vehicles: 8(a) STARS III & Schedule 70
+
+Fax: (866) 856-3684
+
+E-Mail: Satish.chikkala@kmmtechnologies.com
+
+www.kmmtechnologies.com",
+         "Email Classifier": "Job Requirement",
+        "Email Sub-Classifier": "No Visa Allowed",
+        "output": {Hello,
+
+Below are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.
+
+Consultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set
+Srijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science}
+    }
     },
     {
-        "instruction": "Construct the response in JSON format with intents, entities, and response.",
-        "input": "When was Misty Murray's orientation date finalized and what is her role?",
-        "output": {
-            "intents": ["orientation_date", "role"],
-            "entities": ["Misty Murray"],
-            "response": "Misty Murray's orientation date was finalized on Oct-10. She is a Baker / Pastry Chef."
-        }
+        "instruction": "Construct the response in JSON format and Give the response for user query from data.",
+        "input": "Site Reliability Engineer (SRE)",
+        "jobdetails": "Title: Site Reliability Engineer (SRE) 
+Location : Chicago or AZ/Tempe (Day 1 onsite hybrid)
+Contract
+   
+PRINCIPAL RESPONSIBILITIES:
+Lead production stability effort by preventing production issue and improve production stability.
+Defining and enforcing Service Level Objectives (SLOs) and Agreements (SLAs), Error Budgets to guarantee system reliability and availability.
+Attention to key performance indicators, such as response times, error rates, and uptime to align operational performance with overarching business objectives.
+Proactively identify continuous improvement opportunities such as reducing manual effort, automation of tasks/resolutions or decreasing production incidents.
+Involving in defining and deploying monitoring, metrics, and logging systems and developing application dashboards.
+Ensure near-zero downtime with monitoring and alerting, self-healing automation, and continuous improvement.
+Provide reactive, break-fix support and Communicate issue/resolution status (written and verbal) to project team and management.
+Develop to become a Subject Matter Expert for assigned application domain.
+Should be able to interpret the alerts like SiteScope, Dynatrace and ELK etc. & refer to it while doing the RCA of the issue.
+He Should be flexible for upskilling to new tech stack & should be ready to do hands on development.
+Provide regular and high-quality updates to all the stakeholders on the progress of the work including user stories and ITSM problems.
+ 
+SKILLS / EXPERIENCE:
+5-6 plus years of application development experience using modern technologies and architecture, including experience collaborating with technology teams.
+2 plus years of Site Reliability Engineering experience.
+Good Understanding of at least one public cloud, preferably Microsoft Azure/ Pivotal Cloud Foundry.
+Strong understanding of REST APIs and how to use them in practice.
+Strong Experience with continuous integration and collaboration tools like Azure DevOps, JIRA, Bitbucket, GitHub and Confluence.
+Good knowledge and Hands on CLI – Bash, Linux, Azure CLI etc.,
+Experience in some of the following technologies: Java, J2EE, Pivotal Cloud Foundry, Cloud Computing (IaaS, PaaS, and SaaS), RESTful interfaces, GIT, Gradle, Maven, NPM, Spring (Spring Batch and Spring Boot), CSS3, HTML4, React.js, Node.js/JavaScript, Oracle PL/SQL, and Kafka. NTAC:3NS-20
+Strong communication and interpersonal skills, along with a solid technical background are essential as is the ability to multitask in a fast-paced environment. The ideal candidate can explain technical issues in layman’s terms and translate business needs to technology teams and back.
+Experience working effectively with diverse groups around the world, including IT management, technology staff, business partners, consultants, vendors, and clients
+
+
+Thanks & Best Regards,
+Vishal Swami – Clifyx (US IT Recruiter)
+Contact Number- 908-279-1295
+LinkedIn: linkedin.com/in/vishal-swami-790a72179
+Headquarters: South Plainfield, NJ – 07080",
+         "Email Classifier": "Job Requirement",
+        "Email Sub-Classifier": "All Open",
+        "output": {Hello,
+
+Below are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.
+
+Consultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set
+Srijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science}
+      }
     },
     {
-        "instruction": "Construct the response in JSON format with intents, entities, and response.",
-        "input": "Who is the Manager among the provided individuals and when is their birthday?",
-        "output": {
-            "intents": ["manager", "birthday"],
-            "entities": [],
-            "response": "Adrian Flores and Sally Salinas are Managers. Adrian Flores's birthday is on Jun-29 and Sally Salinas's birthday is on Dec-28."
-        }
+        "instruction": "Construct the response in JSON format and Give the response for user query from data.",
+        "input": "Data Engineer",
+        "jobdetails": "Data Engineer   
+
+Washington DC   onsite
+Visa : USC, GC or EAD
+
+
+ 
+
+Python
+
+Spark
+
+Aws - emr or glue, s3, rds, lambda
+
+Sql
+
+Airflow
+
+Snowflake or data warehousing
+
+Datalake or delta lake
+
+",
+         "Email Classifier": "Job Requirement",
+        "Email Sub-Classifier": "No Visa Allowed",
+        "output": {Hello,
+
+Below are the Top consultant details with the attached resumes. Please go through it and let me know if you need more details.
+
+Consultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set
+Srijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science}
+      }
     },
     {
-        "instruction": "Construct the response in JSON format with intents, entities, and response.",
+        "instruction": "Construct the response in JSON format and Give the response for user query from data.",
         "input": "What is Holly Woodward's role and when is her birthday?",
         "output": {
             "intents": ["role", "birthday"],
@@ -63,7 +376,7 @@
         }
     },
     {
-        "instruction": "Construct the response in JSON format with intents, entities, and response.",
+        "instruction": "Construct the response in JSON format and Give the response for user query from data.",
         "input": "When is Ana Richards' orientation date and what is her role?",
         "output": {
             "intents": ["orientation_date", "role"],
@@ -72,7 +385,7 @@
         }
     },
     {
-        "instruction": "Construct the response in JSON format with intents, entities, and response.",
+        "instruction": "Construct the response in JSON format and Give the response for user query from data.",
         "input": "What role does Joseph Wu have and what is his email address?",
         "output": {
             "intents": ["role", "email_address"],
@@ -81,7 +394,7 @@
         }
     },
     {
-        "instruction": "Construct the response in JSON format with intents, entities, and response.",
+        "instruction": "Construct the response in JSON format and Give the response for user query from data.",
         "input": "Is Christine Pollard's email address valid and when is her birthday?",
         "output": {
             "intents": ["email_validity", "birthday"],
