@@ -365,41 +365,5 @@ Below are the Top consultant details with the attached resumes. Please go throug
 Consultant Name        Email ID        Phone Number        Visa Status        Relocation        Skill Set
 Srijan Deo        Deo.srijan25@gmail.com        (201) 467-7969        H-1B        Remote/Onsite Dalla, Tx        Data Science}
       }
-    },
-    {
-        "instruction": "Construct the response in JSON format and Give the response for user query from data.",
-        "input": "What is Holly Woodward's role and when is her birthday?",
-        "output": {
-            "intents": ["role", "birthday"],
-            "entities": ["Holly Woodward"],
-            "response": "Holly Woodward is a Kitchen Assistant. Her birthday is on Sep-3."
-        }
-    },
-    {
-        "instruction": "Construct the response in JSON format and Give the response for user query from data.",
-        "input": "When is Ana Richards' orientation date and what is her role?",
-        "output": {
-            "intents": ["orientation_date", "role"],
-            "entities": ["Ana Richards"],
-            "response": "Ana Richards' orientation date is on Oct-8. She is a Dishwasher."
-        }
-    },
-    {
-        "instruction": "Construct the response in JSON format and Give the response for user query from data.",
-        "input": "What role does Joseph Wu have and what is his email address?",
-        "output": {
-            "intents": ["role", "email_address"],
-            "entities": ["Joseph Wu"],
-            "response": "Joseph Wu is a Kitchen Assistant. His email address is Joseph.Wu@mail.com."
-        }
-    },
-    {
-        "instruction": "Construct the response in JSON format and Give the response for user query from data.",
-        "input": "Is Christine Pollard's email address valid and when is her birthday?",
-        "output": {
-            "intents": ["email_validity", "birthday"],
-            "entities": ["Christine Pollard"],
-            "response": "Christine Pollard's email address is not valid. Her birthday is on Nov-18."
-        }
-    }
+ 
 ]
